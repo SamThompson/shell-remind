@@ -1,4 +1,4 @@
-#ShellRemind
+#shell-remind
 
 I frequently forget that I have processes running in the terminal. This
 simple program plays a user specified sound when a process is complete.
