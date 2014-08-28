@@ -10,7 +10,7 @@ This project relies on SFML 2.1, you can find it [here](http://sfml-dev.org/).
 ###Command line flags:
 Required:
 
--e: the executable that you want to run. For long complex commands,
+-e: the executable that you want to run. For long, complex commands,
 use a shell script
 
 -s: the sound that is to be played
