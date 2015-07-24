@@ -13,7 +13,7 @@ Required:
 -e: the executable that you want to run. For long, complex commands,
 use a shell script
 
--s: the sound that is to be played
+-s: the sound finle that is to be played
 
 Optional:
 
